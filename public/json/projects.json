@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Nextify",
+    "description": "Shop ui made with next.js",
+    "github": "https://github.com/real-kijmoshi/shop",
+    "demo": "https://shop-omega-rouge.vercel.app"
+  },
+  {
+    "name": "sender",
+    "description": "A simple app to send files form one device to another",
+    "github": "https://github.com/real-kijmoshi/sender"
+  },
+  {
+    "name": "weather-app",
+    "description": "A simple weather app",
+    "github": "https://github.com/real-kijmoshi/wather-app"
+  },
+  {
+    "name": "fast-db",
+    "description": "A simple database",
+    "github": "https://github.com/real-kijmoshi/fast.db"
+  },
+  {
+    "name": "projects-menager",
+    "description": "A simple projects menager",
+    "github": "https://github.com/real-kijmoshi/projects-menager"
+  },
+  {
+    "name": "bf-interpreter",
+    "description": "innterpreter for brainfuck",
+    "github": "https://github.com/real-kijmoshi/bf-interpreter"
+  }
+]
